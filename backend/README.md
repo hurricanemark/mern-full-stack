@@ -48,3 +48,10 @@ nodemon server --debug
 ```
 npm install axios
 ```
+
+## Run
+
+axios is used to send data between the frontend and the backend via
+http://localhost:3002/
+
+You must define .env and use process.env.HOST, process.env.HOST for this.
