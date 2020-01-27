@@ -6,6 +6,18 @@ cd mern-full-stack
 
 npm install
 
+npm install nodemon
+
+### Run backend
+
+```
+From a separate console, run **nodemon server**
+```
+
+## Run frontend
+
+```
+From another console, run **npm start**
 ```
 
 
