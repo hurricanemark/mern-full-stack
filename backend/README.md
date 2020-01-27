@@ -12,9 +12,10 @@ track 1:20:12 Connect the frontend to the backend.
 
 ## Development notes
 
-1.  Create a new react app: (bootstrap it):
+### 1.  Create a new react app: (bootstrap it):
 
-```npx create-react-app [app_name]
+```
+npx create-react-app [app_name]
 
 cd app_name
 
@@ -24,9 +25,10 @@ npm install react-route-dom
 
 npm install react-datepicker
 
-npm start```
+npm start
+```
 
-2.  Create backend folder
+### 2.  Create backend folder
 
 ``` mkdir backend
 
@@ -38,7 +40,8 @@ npm install express cors mongoose dotenv
 
 sudo npm install -g nodemon
 
-nodemon server --debug ```
+nodemon server --debug 
+```
 
 
 ##  Connecting the frontend to the backend (track 1:19:00)
