@@ -25,6 +25,8 @@ npm install react-route-dom
 
 npm install react-datepicker
 
+snpm install axio
+
 npm start
 ```
 
@@ -44,10 +46,6 @@ nodemon server --debug
 ```
 
 
-##  Connecting the frontend to the backend (track 1:19:00)
-```
-npm install axios
-```
 
 ## Run
 
