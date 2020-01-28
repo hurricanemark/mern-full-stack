@@ -1,24 +1,24 @@
 ## Clone from github
-```
-git clone https://github.com/hurricanemark/mern-full-stack.git
 
-cd mern-full-stack
+`git clone https://github.com/hurricanemark/mern-full-stack.git`
 
-npm install
+`cd mern-full-stack`
 
-npm install nodemon
+`npm install`
+
+`npm install nodemon`
+
+
 
 ### Run backend
 
-```
-From a separate console, run **nodemon server**
-```
+> From a separate console, run **nodemon server**
+
 
 ## Run frontend
 
-```
-From another console, run **npm start**
-```
+> From another console, run **npm start**
+
 
 
 ## Screenshots
@@ -28,6 +28,7 @@ From another console, run **npm start**
 ![Create New Activity Log](https://github.com/hurricanemark/mern-full-stack/blob/master/CreateNewActivityLog.PNG)
 
 ![Activity List](https://github.com/hurricanemark/mern-full-stack/blob/master/ActivityLog.PNG)
+
 
 
 
