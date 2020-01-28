@@ -23,11 +23,11 @@ From another console, run **npm start**
 
 ## Screenshots
 
-![Create User](/CreateUser.PNG)
+![Create User](https://github.com/hurricanemark/mern-full-stack/blob/master/CreateUser.PNG)
 
-![Create New Activity Log](/CreateNewActivityLog.PNG)
+![Create New Activity Log](https://github.com/hurricanemark/mern-full-stack/blob/master/CreateNewActivityLog.PNG)
 
-![Activity List](/ActivityLog.PNG)
+![Activity List](https://github.com/hurricanemark/mern-full-stack/blob/master/ActivityLog.PNG)
 
 
 
