@@ -23,11 +23,11 @@ From another console, run **npm start**
 
 ## Screenshots
 
-[Create User!](CreateUser.PNG)
+![Create User](/CreateUser.PNG)
 
-[Create New Activity Log!](CreateNewActivityLog.PNG)
+![Create New Activity Log](/CreateNewActivityLog.PNG)
 
-[Activity List!](ActivityLog.PNG)
+![Activity List](/ActivityLog.PNG)
 
 
 
