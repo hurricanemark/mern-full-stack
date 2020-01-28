@@ -21,6 +21,15 @@ From another console, run **npm start**
 ```
 
 
+## Screenshots
+
+[Create User!](CreateUser.PNG)
+
+[Create New Activity Log!](CreateNewActivityLog.PNG)
+
+[Activity List!](ActivityLog.PNG)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
